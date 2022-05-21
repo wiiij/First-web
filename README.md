@@ -8,3 +8,5 @@
 <img src="https://user-images.githubusercontent.com/102115231/169640349-3a93af73-8f83-4470-ac00-02d4822ef060.jpg" width="1000 " height="550">
 이렇게 화면이 이동이 되도록 만들고 나머지 아래도 다 똑같이 이동이 될 것입니다.
 그리고 다시 새로고침을 하여 메인 화면으로 넘어가면
+<img src="https://user-images.githubusercontent.com/102115231/169640490-0529de83-bda6-46a1-85c0-faf382996201.jpg" width="1000 " height="550">
+메인에 있는 질문에 두개의 답중에 한개를 누르면 저렇게 메시지가 나옵니다. 이상으로 부족한 저의 글을 봐주셔서 감사합니다
